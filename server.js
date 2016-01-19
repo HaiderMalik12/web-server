@@ -30,7 +30,7 @@ app.get('/',function(req,res){
 
 /*get the about page*/
 app.get('/about',middleware.requireAuthentication,function(req,res){
-    res.send('from About Us');
+    res.send('from About Us!');
 });
 
 /*
