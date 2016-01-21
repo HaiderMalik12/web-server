@@ -6,6 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+    "node": "0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HaiderMalik12/web-server"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
   "author": "",
   "license": "ISC"
 }
